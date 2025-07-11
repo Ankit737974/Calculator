@@ -18,9 +18,14 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This p
 
 ## 📷 Screenshots
 
-![Calculator Screenshot](https://raw.githubusercontent.com/Ankit737974/Calculator/main/screenshot.png)
+![Calculator Screenshot](<img width="1751" height="869" alt="Screenshot 2025-07-12 001638" src="https://github.com/user-attachments/assets/34265b26-ae1a-47dd-9ae5-489e11cc7ff2" />
+)
 
-> 💡 *Add a `screenshot.png` image in your repository root to show preview.*
+
 
 ## 📁 Project Structure
+Calculator/
+├── index.html # Main calculator UI
+├── style.css # Styling and layout
+└── script.js # Calculator logic
 

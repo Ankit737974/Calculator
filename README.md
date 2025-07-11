@@ -18,7 +18,7 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This p
 
 ## 📷 Screenshots
 
-![Calculator Screenshot](<img width="1751" height="869" alt="Screenshot 2025-07-12 001638" src="https://github.com/user-attachments/assets/34265b26-ae1a-47dd-9ae5-489e11cc7ff2" />
+![Calculator Screenshot](<img width="1751" height="869" alt="Screenshot 2025-07-12 001638" src="https://github.com/user-attachments/assets/600297a7-d2a0-4d0c-87e8-67177cf0d3de" />
 )
 
 
